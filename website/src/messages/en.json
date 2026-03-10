@@ -1,0 +1,464 @@
+{
+  "nav": {
+    "home": "Home",
+    "capabilities": "Capabilities",
+    "caseLibrary": "Case Library",
+    "resources": "Resources",
+    "about": "About Zeta ACI",
+    "tryDemo": "Try a Demo",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "hero": {
+      "title": "Build Enterprise-Grade AI Workforce Systems",
+      "subtitle": "Enable organizations to deploy, orchestrate, supervise, and evolve AI workforces — not isolated agents, but a composable, collaborative, self-iterating, and governable agent operating system",
+      "cta1": "Try a Demo",
+      "cta2": "Contact Us"
+    },
+    "thesis": {
+      "label": "Capability Thesis",
+      "title": "From Point Tools to Enterprise Production Infrastructure",
+      "description": "What Zeta builds for enterprises is not a single agent or isolated scenario automation, but a composable, collaborative, self-iterating, and governable enterprise-grade agent operating capability system. This system connects models, knowledge, systems, workflows, and people into an agent cluster network that continuously executes, learns, and optimizes — ultimately becoming the enterprise's new production infrastructure."
+    },
+    "layers": {
+      "label": "Six-Layer Overview",
+      "title": "Enterprise Agent Operating Capability System",
+      "items": [
+        {
+          "name": "Agent Encapsulation",
+          "definition": "Transform job capabilities, process actions, and knowledge decisions into deployable agent units",
+          "value": "The first step from functional digitization to workforce digitization"
+        },
+        {
+          "name": "Orchestration & Collaboration",
+          "definition": "Enable multiple agents to coordinate tasks through division, routing, relay, and supervision",
+          "value": "Upgrade point intelligence into collaborative organizational intelligence"
+        },
+        {
+          "name": "Business Execution Loop",
+          "definition": "Agents can execute, write back, and track results — becoming part of business processes",
+          "value": "Moving from Assistive AI to Operational AI"
+        },
+        {
+          "name": "Self-Iteration & Optimization",
+          "definition": "Continuously optimize based on feedback, results, and human corrections",
+          "value": "Giving enterprise AI systems operational learning capabilities"
+        },
+        {
+          "name": "Human-AI Co-Governance",
+          "definition": "Permission control, audit trails, quality assessment, human override, and risk boundaries",
+          "value": "Transform agents from experimental tools to trusted production systems"
+        },
+        {
+          "name": "Intelligent Operations",
+          "definition": "Manage agent networks like digital systems — cost, effectiveness, coverage, and ROI",
+          "value": "Turn AI from projects into long-term enterprise operating assets"
+        }
+      ]
+    },
+    "cases": {
+      "label": "Featured Cases",
+      "title": "Agent Capability Systems Already in Production",
+      "items": [
+        {
+          "title": "Intelligent Sales Follow-up",
+          "scene": "Sales Process Automation",
+          "result": "80% faster lead response, sales teams focus on high-value clients",
+          "layers": "Orchestration · Execution · Loop"
+        },
+        {
+          "title": "Enterprise Knowledge Hub Agent",
+          "scene": "Knowledge Management & Retrieval",
+          "result": "5x cross-department query efficiency, 95%+ accuracy",
+          "layers": "Encapsulation · Collaboration · Governance"
+        },
+        {
+          "title": "Multi-Agent Approval System",
+          "scene": "Process Approval & Risk Control",
+          "result": "60% shorter approval cycles, 98% anomaly interception rate",
+          "layers": "Orchestration · Governance · Operations"
+        }
+      ],
+      "viewMore": "View All Cases",
+      "viewDetail": "Learn More"
+    },
+    "demo": {
+      "label": "Try a Demo",
+      "title": "Experience Agent Capabilities Firsthand",
+      "description": "These are simplified demos. Production projects integrate with enterprise systems, knowledge bases, and workflows",
+      "items": [
+        {
+          "name": "Knowledge Assistant Agent",
+          "desc": "Intelligent Q&A and retrieval based on enterprise knowledge bases"
+        },
+        {
+          "name": "Sales Follow-up Agent",
+          "desc": "Automatically follow up on leads and generate personalized outreach"
+        },
+        {
+          "name": "Data Analysis Agent",
+          "desc": "Query data in natural language and generate analytical reports"
+        }
+      ],
+      "tryNow": "Try Now"
+    },
+    "aboutSnapshot": {
+      "label": "About Zeta",
+      "title": "Why Choose Zeta",
+      "description": "Zeta is an AI agent implementation and technology company serving enterprise clients. We focus on building composable, collaborative, self-iterating, and governable enterprise-grade agent operating capability systems — not point AI tools.",
+      "points": [
+        "Enterprise-focused with deep business understanding",
+        "Capability system over point tools",
+        "Complete methodology from pilot to full deployment",
+        "Continuous iteration, building long-term enterprise assets"
+      ],
+      "cta": "Learn More"
+    }
+  },
+  "capabilities": {
+    "hero": {
+      "label": "Capabilities",
+      "title": "Enterprise Agent Operating Capability System",
+      "subtitle": "What Zeta builds is not a single agent or isolated automation, but a composable, collaborative, self-iterating, and governable enterprise-grade agent operating system"
+    },
+    "thesis": {
+      "title": "From Point Tools to Organization-Level AI Workforce",
+      "contrasts": [
+        { "from": "Adding a chat box to systems", "to": "Abstracting cognitive work into executable agents" },
+        { "from": "Single agent automation", "to": "Multi-agent orchestration" },
+        { "from": "Staying at Copilot level", "to": "Entering Operational AI" },
+        { "from": "One-time static demo delivery", "to": "Continuously optimizable operating system" },
+        { "from": "Black-box tools", "to": "Governable, auditable production systems" },
+        { "from": "Buying a few agents", "to": "Building an AI Operating Model" }
+      ]
+    },
+    "layers": {
+      "title": "Six-Layer Capability System",
+      "items": [
+        {
+          "name": "Agent Encapsulation",
+          "definition": "Encapsulate work units scattered across people, documents, systems, and processes into callable, composable, evaluable, and reusable agent capability units.",
+          "frontier": "This is the first step from functional digitization to workforce digitization.",
+          "landing": "Sales follow-up agent, recruitment screening agent, customer service agent, project delivery agent, knowledge assistant agent, data analysis agent",
+          "essence": "Transform job capabilities, process actions, and knowledge decisions into deployable agent units"
+        },
+        {
+          "name": "Orchestration & Cluster Collaboration",
+          "definition": "Enable multiple agents to coordinate around tasks through division, collaboration, routing, relay, and supervision — forming a controllable agent orchestration network.",
+          "frontier": "Truly advanced enterprise AI isn't one super agent doing everything, but multiple specialized agents collaborating within clear boundaries.",
+          "landing": "Controller agent decomposes tasks, knowledge agent queries policies, data agent pulls reports, workflow agent connects OA/CRM/ERP, review agent ensures quality",
+          "essence": "Upgrade point intelligence into collaborative organizational intelligence"
+        },
+        {
+          "name": "Business Execution Loop",
+          "definition": "Move agents from 'can answer' to 'can execute, write back, and track results' — truly becoming part of business processes.",
+          "frontier": "The real value lies in moving from Assistive AI to Operational AI.",
+          "landing": "Auto-query system data, auto-generate/update work orders, auto-fill forms and trigger approvals, auto-push messages and assign tasks",
+          "essence": "Agents become execution-layer production units, not just cognitive tools"
+        },
+        {
+          "name": "Self-Iteration & Optimization",
+          "definition": "Enable agent systems to continuously optimize based on feedback, results, human corrections, and business metrics — not static after deployment.",
+          "frontier": "Leading clients care not about 'can it go live' but 'will it keep getting better and more aligned with real business'.",
+          "landing": "Optimize prompts based on user feedback, improve routing from task history, crystallize rules from human corrections",
+          "essence": "Give enterprise AI systems operational learning capabilities"
+        },
+        {
+          "name": "Human-AI Co-Governance",
+          "definition": "Agent clusters operate with permission control, audit trails, quality assessment, human override, and risk boundaries — not as black boxes.",
+          "frontier": "The more enterprises understand AI, the more they care about permissions, auditing, override capabilities, and governance integration.",
+          "landing": "Unified identity and permissions, operation logs and audit trails, human approval nodes, high-risk task interception, output quality assessment",
+          "essence": "Transform agents from experimental tools to trusted production systems"
+        },
+        {
+          "name": "Intelligent Operations",
+          "definition": "Enable enterprises to manage agent networks like digital systems — monitoring cost, effectiveness, coverage, and ROI.",
+          "frontier": "Advanced clients ultimately want not to buy agents, but to build an AI Operating Model.",
+          "landing": "Track deployed agents, completed process loops, saved human-hours, response speed improvement, task success/failure rates",
+          "essence": "Turn AI from projects into long-term enterprise operating assets"
+        }
+      ]
+    },
+    "orchestration": {
+      "title": "Agent Orchestration & Execution",
+      "subtitle": "Task entry → Decomposition → Routing → System/Knowledge/Process calls → Quality check → Human override → Write-back & logging",
+      "points": [
+        "The controller agent is a dispatcher, not the sole executor",
+        "Multiple agents operate within clear boundaries",
+        "Humans retain approval, override, and final responsibility at key nodes",
+        "Results write back to systems, crystallize knowledge, and feed monitoring"
+      ]
+    },
+    "governance": {
+      "title": "Governance & Intelligent Operations",
+      "subtitle": "Not 'can it be done' but 'can it be operated long-term'",
+      "groups": [
+        {
+          "name": "Security & Governance",
+          "items": ["Permission Control", "Audit Trails", "Risk Interception", "Human Override"]
+        },
+        {
+          "name": "Quality & Release",
+          "items": ["Quality Assessment", "Canary Release", "Issue Tracking", "Version Management"]
+        },
+        {
+          "name": "Operations & Metrics",
+          "items": ["Effectiveness Metrics", "ROI Analysis", "Coverage", "Call Frequency"]
+        },
+        {
+          "name": "Scaled Deployment",
+          "items": ["Pilot Validation", "Gradual Rollout", "Full Deployment", "Continuous Ops"]
+        }
+      ]
+    }
+  },
+  "caseLibrary": {
+    "hero": {
+      "label": "Case Library",
+      "title": "Proving Agent Value Through Real Deployment",
+      "subtitle": "See how Zeta brings agent capability systems to life through real cases, customer stories, and interactive demos"
+    },
+    "featured": {
+      "title": "Featured Cases",
+      "cases": [
+        {
+          "title": "Intelligent Sales Follow-up System",
+          "client": "A Leading Manufacturing Enterprise",
+          "scene": "Sales Process Automation",
+          "layer": "Orchestration · Execution · Loop",
+          "background": "The sales team was overwhelmed managing a high volume of leads with low manual follow-up efficiency.",
+          "problem": "Slow lead response, inconsistent follow-up standards, customer profiles scattered across multiple systems.",
+          "solution": "Deployed a multi-agent collaborative sales system: lead assignment agent for auto-distribution, follow-up agent for personalized outreach, data agent for unified customer profiles.",
+          "result": "80% faster lead response, sales teams can focus on high-value clients, 35% improvement in conversion rate."
+        },
+        {
+          "title": "Enterprise Knowledge Hub Agent",
+          "client": "A Major Financial Institution",
+          "scene": "Knowledge Management & Retrieval",
+          "layer": "Encapsulation · Collaboration · Governance",
+          "background": "Enterprise knowledge was scattered across documents, policies, emails, and multiple business systems.",
+          "problem": "Difficult cross-department knowledge retrieval, slow onboarding, knowledge base lagging behind policy updates.",
+          "solution": "Built a knowledge hub agent cluster: indexing agent for continuous updates, retrieval agent for multi-path recall, compliance agent for output accuracy.",
+          "result": "5x improvement in cross-department query efficiency, 95%+ accuracy, 40% reduction in new hire onboarding time."
+        },
+        {
+          "title": "Multi-Agent Approval System",
+          "client": "A Group Enterprise",
+          "scene": "Process Approval & Risk Control",
+          "layer": "Orchestration · Governance · Operations",
+          "background": "Complex group-level approval processes involving multi-department cross-review, compliance checks, and risk assessment.",
+          "problem": "Long approval cycles, human review oversight, siloed information across stages.",
+          "solution": "Built a multi-agent approval flow: decomposition agent for type identification, compliance agent for auto-verification, risk agent for anomaly flagging, flow agent for process driving.",
+          "result": "60% shorter approval cycles, 98% anomaly interception rate, full process traceability."
+        }
+      ]
+    },
+    "stories": {
+      "title": "Customer Stories",
+      "items": [
+        {
+          "title": "From Manual Dispatching to Agent Auto-Scheduling",
+          "quote": "We used to spend two hours daily on work order assignments. Now the agent handles distribution automatically — I only deal with exceptions.",
+          "role": "Operations Director",
+          "company": "A Logistics Technology Company"
+        },
+        {
+          "title": "Knowledge Queries: From Hours to Seconds",
+          "quote": "Looking up a policy used to mean searching through multiple systems. Now I just ask the agent and get an accurate answer with source citations.",
+          "role": "Compliance Lead",
+          "company": "A Financial Institution"
+        }
+      ]
+    },
+    "demos": {
+      "title": "Interactive Demos",
+      "description": "These are simplified demos. Production projects integrate with enterprise systems, knowledge bases, and workflows",
+      "items": [
+        {
+          "name": "Knowledge Assistant Agent",
+          "desc": "Intelligent Q&A and retrieval based on enterprise knowledge bases, with multi-turn dialogue and precise citations"
+        },
+        {
+          "name": "Sales Follow-up Agent",
+          "desc": "Input client information to auto-generate follow-up strategies and personalized outreach"
+        },
+        {
+          "name": "Data Analysis Agent",
+          "desc": "Describe your needs in natural language, auto-query data and generate visual reports"
+        }
+      ],
+      "tryNow": "Try Now"
+    }
+  },
+  "resources": {
+    "hero": {
+      "label": "Resources",
+      "title": "Insights & Methods",
+      "subtitle": "Continuous insights on enterprise AI agent adoption — perspectives, updates, and practical answers"
+    },
+    "articles": {
+      "title": "Articles & Insights",
+      "items": [
+        {
+          "title": "Why Enterprises Need an Agent Capability System, Not Point Tools",
+          "summary": "From single AI tools to building organization-level AI workforce systems — enterprises need more than tools, they need a complete capability system.",
+          "date": "2025-03-01",
+          "tag": "Insight"
+        },
+        {
+          "title": "From Copilot to Operational AI: The Next Step for Enterprise AI",
+          "summary": "When AI evolves from assistive tools to production systems that can independently execute business loops, enterprise AI strategy needs a fundamental upgrade.",
+          "date": "2025-02-15",
+          "tag": "Trend"
+        },
+        {
+          "title": "How to Evaluate if Your Enterprise is Ready for Agents",
+          "summary": "Not all scenarios are suitable for agent deployment. This article provides a framework to identify the best entry points.",
+          "date": "2025-02-01",
+          "tag": "Method"
+        }
+      ]
+    },
+    "news": {
+      "title": "News & Updates",
+      "items": [
+        {
+          "title": "Zeta Completes New Funding Round to Accelerate Enterprise Agent Deployment",
+          "date": "2025-03-05",
+          "summary": "The funding will expand the technical team and accelerate product development."
+        },
+        {
+          "title": "Zeta Enters Strategic Partnership with Leading Manufacturer",
+          "date": "2025-02-20",
+          "summary": "Both parties will collaborate deeply on intelligent sales, supply chain coordination, and more."
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "q": "What types of business are suitable for agents?",
+          "a": "Knowledge-intensive and process-driven work with high repetition, clear rules, and multi-system coordination. Examples include customer service, sales follow-up, approval workflows, and knowledge retrieval."
+        },
+        {
+          "q": "How does Zeta start a project?",
+          "a": "We typically begin with business diagnosis to identify the most valuable agent opportunities, run a pilot, then gradually expand to more processes and departments."
+        },
+        {
+          "q": "Can agents integrate with existing enterprise systems?",
+          "a": "Yes. Zeta's agent system can integrate with CRM, ERP, OA, knowledge bases, and other mainstream enterprise systems for data retrieval, process triggers, and result write-back."
+        },
+        {
+          "q": "How is data security ensured?",
+          "a": "Zeta supports private deployment with all data flowing within the enterprise. We provide comprehensive permission control, audit trails, and data encryption."
+        },
+        {
+          "q": "What's the typical project timeline?",
+          "a": "Pilot projects typically launch in 4-8 weeks, covering requirements analysis, agent design, system integration, testing, and deployment. Continuous iteration follows."
+        },
+        {
+          "q": "How does the demo differ from production projects?",
+          "a": "Demos showcase core interaction and capability logic. Production projects integrate with real enterprise systems, knowledge, and workflows, including permissions, monitoring, and operations."
+        }
+      ]
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "About Zeta",
+      "title": "Enabling Enterprises to Truly Gain AI Workforce Capabilities",
+      "subtitle": "Zeta is an AI agent implementation and technology company serving enterprise clients"
+    },
+    "company": {
+      "title": "Company",
+      "description": "Zeta focuses on building composable, collaborative, self-iterating, and governable enterprise-grade agent operating capability systems. Our clients are enterprises that want to move AI from concept to real production environments.",
+      "beliefs": [
+        {
+          "title": "Capability System Over Point Tools",
+          "desc": "Enterprises need not a few AI tools, but a continuously operable agent capability system."
+        },
+        {
+          "title": "Deployment Over Concepts",
+          "desc": "We focus on whether agents can truly run in business, produce results, and be continuously used."
+        },
+        {
+          "title": "Governance Over Automation",
+          "desc": "Automation without governance is uncontrollable. Enterprise AI must have permissions, auditing, and human override."
+        },
+        {
+          "title": "Iteration Over One-Time Delivery",
+          "desc": "True agent systems should become more accurate and better adapted to real business over time."
+        }
+      ]
+    },
+    "approach": {
+      "title": "Our Approach",
+      "steps": [
+        { "step": "01", "title": "Business Diagnosis", "desc": "Deeply understand business scenarios and identify the most valuable agent opportunities." },
+        { "step": "02", "title": "Scenario Selection", "desc": "Choose the best entry scenario to ensure the pilot delivers quick results." },
+        { "step": "03", "title": "Agent Design & Build", "desc": "Design agent architecture, orchestration logic, and system integration, then develop." },
+        { "step": "04", "title": "Pilot Validation", "desc": "Validate agent effectiveness in real business scenarios, collect feedback for optimization." },
+        { "step": "05", "title": "Scaled Deployment", "desc": "Expand from pilot to full coverage across more scenarios and departments." },
+        { "step": "06", "title": "Continuous Operations", "desc": "Establish an operations framework, continuously optimize, and build long-term enterprise assets." }
+      ]
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We'd love to discuss how to bring AI agent capabilities to your enterprise",
+      "form": {
+        "name": "Name",
+        "company": "Company",
+        "email": "Email",
+        "phone": "Phone",
+        "message": "Describe your needs",
+        "submit": "Submit Inquiry"
+      },
+      "info": {
+        "email": "tjzzfrank@gmail.com",
+        "address": "No. 1239 Siping Road, Shanghai, China"
+      }
+    },
+    "careers": {
+      "title": "Careers",
+      "subtitle": "If you believe AI agents will reshape how enterprises work, join Zeta",
+      "positions": [
+        { "title": "AI Agent Architect", "type": "Full-time", "location": "Shanghai" },
+        { "title": "Full-Stack Engineer", "type": "Full-time", "location": "Shanghai" },
+        { "title": "Solution Consultant", "type": "Full-time", "location": "Shanghai" }
+      ],
+      "applyNote": "Send your resume to tjzzfrank@gmail.com"
+    }
+  },
+  "footer": {
+    "description": "Zeta ACI — AI agent implementation and technology company for enterprises",
+    "columns": {
+      "capabilities": "Capabilities",
+      "cases": "Case Library",
+      "resources": "Resources",
+      "about": "About Zeta ACI"
+    },
+    "links": {
+      "sixLayers": "Six-Layer System",
+      "orchestration": "Orchestration & Execution",
+      "governance": "Governance & Operations",
+      "featuredCases": "Featured Cases",
+      "stories": "Customer Stories",
+      "demos": "Interactive Demos",
+      "articles": "Articles & Insights",
+      "news": "News & Updates",
+      "faq": "FAQ",
+      "company": "Company",
+      "approach": "Our Approach",
+      "contact": "Contact Us",
+      "careers": "Careers"
+    },
+    "copyright": "© 2025 Zeta ACI. All rights reserved."
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "backToTop": "Back to Top",
+    "comingSoon": "Coming Soon"
+  }
+}
