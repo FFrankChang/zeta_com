@@ -51,6 +51,7 @@ export function Navbar() {
                 <Link
                   key={item.key}
                   href={item.href}
+                  prefetch={false}
                   className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors duration-200 ${
                     isActive
                       ? "text-primary-500 bg-primary-50"
@@ -104,6 +105,7 @@ export function Navbar() {
                 <Link
                   key={item.key}
                   href={item.href}
+                  prefetch={false}
                   onClick={() => setMobileOpen(false)}
                   className="block px-3 py-2.5 rounded-lg text-sm font-medium text-text-secondary hover:text-text-primary hover:bg-white/60 transition-colors"
                 >

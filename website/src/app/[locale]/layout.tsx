@@ -35,14 +35,10 @@ export default async function LocaleLayout({
   const messages = messagesMap[locale] ?? messagesMap[routing.defaultLocale];
 
   return (
-    <html lang={locale}>
-      <body className="font-sans antialiased">
-        <NextIntlClientProvider locale={locale} messages={messages}>
-          <Navbar />
-          <main className="min-h-screen pt-16">{children}</main>
-          <Footer />
-        </NextIntlClientProvider>
-      </body>
-    </html>
+    <NextIntlClientProvider locale={locale} messages={messages}>
+      <Navbar />
+      <main className="min-h-screen pt-16">{children}</main>
+      <Footer />
+    </NextIntlClientProvider>
   );
 }
